@@ -4,15 +4,15 @@
 
 
 
-<head>
+
     <title> JavaScript - Olá Meu nome é Cleverton Seja Bem Vindo!</title>
     <metaname="description" content=" um script em JavaScript no HTML">
         <metacharset="utf-8">
             <script type="text/javascript">
                 alert(' Olá,Meu nome é Cleverton Seja Bem Vindo! ')
             </script>
-            <!DOCTYPE html>
-            <html>
+            
+            
 
 
 
